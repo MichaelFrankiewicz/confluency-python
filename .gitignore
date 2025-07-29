@@ -1,0 +1,11 @@
+# Bytecode / caches
+__pycache__/
+*.py[cod]
+
+# Virtual env
+.venv/
+
+# PyInstaller artifacts
+build/
+dist/
+*.spec
